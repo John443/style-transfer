@@ -19,11 +19,11 @@ This is a project to add styles from famous painting to any photo, which is base
 ## Result
 
 * Content Image
-![image](https://github.com/John443/style-transfer/blob/master/images/trojan_shrine.jpg)
+	![image](https://github.com/John443/style-transfer/blob/master/images/trojan_shrine.jpg)
 * Style Image
-![image](https://github.com/John443/style-transfer/blob/master/images/muse.jpg)
+	![image](https://github.com/John443/style-transfer/blob/master/images/muse.jpg)
 * Result
-![image](https://github.com/John443/style-transfer/blob/master/images/450.png)
+	![image](https://github.com/John443/style-transfer/blob/master/images/450.png)
 
 ## TODO
 
